@@ -1,4 +1,4 @@
-project "App"
+project "Silly"
    kind "ConsoleApp"
    language "C++"
    cppdialect "C++20"
@@ -12,7 +12,7 @@ project "App"
       "Source",
 
 	  -- Include Core
-	  "../Core/Source"
+	  "../Engine/Source"
    }
 
    links

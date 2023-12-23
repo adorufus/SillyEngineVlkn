@@ -1,0 +1,31 @@
+[submodule "Silly/vendor/GLFW"]
+	path = Silly/vendor/GLFW
+	url = https://github.com/TheCherno/glfw
+[submodule "Silly/vendor/imgui"]
+	path = Silly/vendor/imgui
+	url = https://github.com/TheCherno/imgui
+    branch = docking
+	ignore = dirty
+[submodule "Silly/vendor/glm"]
+	path = Silly/vendor/glm
+	url = https://github.com/g-truc/glm
+[submodule "Silly/vendor/FastNoise"]
+	path = Silly/vendor/FastNoise
+	url = https://github.com/Auburns/FastNoise
+[submodule "Silly/vendor/Box2D"]
+	path = Silly/vendor/Box2D
+	url = https://github.com/TheCherno/Box2D
+	ignore = dirty
+[submodule "Silly/vendor/msdf-atlas-gen"]
+	path = Silly/vendor/msdf-atlas-gen
+	url = https://github.com/TheCherno/msdf-atlas-gen
+	ignore = dirty
+[submodule "Silly/vendor/JoltPhysics/JoltPhysics"]
+	path = Silly/vendor/JoltPhysics/JoltPhysics
+	url = https://github.com/jrouwe/JoltPhysics
+[submodule "Silly/vendor/NFD-Extended/NFD-Extended"]
+	path = Silly/vendor/NFD-Extended/NFD-Extended
+	url = https://github.com/btzy/nativefiledialog-extended
+[submodule "Silly/vendor/tracy/tracy"]
+	path = Silly/vendor/tracy/tracy
+	url = https://github.com/wolfpld/tracy
